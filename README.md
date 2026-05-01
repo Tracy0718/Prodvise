@@ -6,7 +6,7 @@ The goal of this project is to improve product discovery in e-commerce platforms
 
 🌐 Live Demo:
 Try the application here:
-👉 https://prodvise-main.vercel.app/
+👉 https://smartshop-l4rd.onrender.com
 
 🚀 Features:
 Hybrid recommendation engine combining Collaborative Filtering and Content-Based Filtering
